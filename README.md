@@ -1,6 +1,6 @@
 # JupyterNotebook
 
-As I create resources to supplement my PhD research in Deep Learning, I will be sharing them here in my JupyterNotebook repository.
+As I create non-sensitive resources to supplement my PhD research in Deep Learning, I will be sharing them here in my JupyterNotebook repository.
 
 The purpose of this is:
 
